@@ -1,7 +1,7 @@
 # AutoFracture
-- AutoFracture 
-- https://pypi.org/project/autofracture/
-$ $
+🚀- AutoFracture 
+💻- https://pypi.org/project/autofracture/
+
 - In the field of hydraulic fracturing, automatic machine learning can help in handling and analyzing large amounts of data, improving the accuracy of predicting hydraulic fracturing results, and optimizing operational parameters. Here are some aspects where automatic machine learning can play a role in the field of hydraulic fracturing:
 
 1. Data analysis and feature engineering: Automatic machine learning algorithms can assist in analyzing various data generated during the hydraulic fracturing process, such as geological, seismic, fluid mechanics data, automatically generating features, and reducing data dimensions.
